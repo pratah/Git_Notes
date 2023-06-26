@@ -2,8 +2,8 @@
 
 - git —-version (Check Version )
 - git init (Initialize the repository)
-- git config --global [user.name](http://user.name/) ‘Henrique Prata’
-- git config --global user.email ‘hmorganprata@gmail.com’
+- git config --global [user.name](http://user.name/) ‘XYZ’
+- git config --global user.email ‘xyz@gmail.com’
 - mkdir project_name
 - touch file_name.something
 - git add . (Add all files)
